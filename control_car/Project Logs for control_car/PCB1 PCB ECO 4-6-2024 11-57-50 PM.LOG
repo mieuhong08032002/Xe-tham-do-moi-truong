@@ -1,0 +1,13 @@
+Added Pin To Net: NetName=IN1 Pin=ESP1-8
+Added Net: Name=IN1
+Added Pin To Net: NetName=IN2 Pin=ESP1-9
+Added Net: Name=IN2
+Added Pin To Net: NetName=IN3 Pin=ESP1-10
+Added Net: Name=IN3
+Added Pin To Net: NetName=IN4 Pin=ESP1-11
+Added Net: Name=IN4
+Added Pin To Net: NetName=NA Pin=ESP1-7
+Added Net: Name=NA
+Added Pin To Net: NetName=NB Pin=ESP1-12
+Added Net: Name=NB
+Added Room: Name=Sheet1

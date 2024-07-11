@@ -1,0 +1,41 @@
+Removed Pin From Net: NetName=18650_am Pin=Designator17-1
+Removed Pin From Net: NetName=18650_d Pin=Designator18-1
+Removed Pin From Net: NetName=5am Pin=Designator19-1
+Removed Pin From Net: NetName=5_d Pin=Designator20-1
+Removed Pin From Net: NetName=NetESP1_15 Pin=U?-+12V
+Removed Pin From Net: NetName=NA Pin=U?-ENA
+Removed Pin From Net: NetName=NB Pin=U?-ENB
+Removed Pin From Net: NetName=5am Pin=U?-GND
+Removed Pin From Net: NetName=IN1 Pin=U?-IN1
+Removed Pin From Net: NetName=IN2 Pin=U?-IN2
+Removed Pin From Net: NetName=IN3 Pin=U?-IN3
+Removed Pin From Net: NetName=IN4 Pin=U?-IN4
+Removed Pin From Net: NetName=out3 Pin=U?-OUT1
+Removed Pin From Net: NetName=out4 Pin=U?-OUT2
+Removed Pin From Net: NetName=out1 Pin=U?-OUT3
+Removed Pin From Net: NetName=out2 Pin=U?-OUT4
+Added Component: Designator=JP?(JP 1x4 CT)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH004006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Jump Ðõn Cái 2.54MM 1x20P Th?ng"; VariantName = "[No Variations]"
+Added Component: Designator=JP?(JP 1x3 CT)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH004006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Jump Ðõn Cái 2.54MM 1x20P Th?ng"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=A0 Pin=JP?-4
+Added Net: Name=A0
+Added Pin To Net: NetName=D0 Pin=JP?-3
+Added Net: Name=D0
+Added Pin To Net: NetName=out Pin=JP?-2
+Added Net: Name=out
+Added Member To Class: ClassName=Sheet1 Member=Component JP? JP 1x4 2.54
+Added Member To Class: ClassName=Sheet1 Member=Component JP? JP 1x3 2.54
+Added Room: Name=Sheet1

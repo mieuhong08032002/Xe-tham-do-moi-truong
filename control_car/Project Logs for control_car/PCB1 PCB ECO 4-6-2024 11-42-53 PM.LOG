@@ -1,0 +1,32 @@
+Added Component: Designator=BT1(DE PIN 18650 X2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH010812"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten"; Value = "H?p Ð? Pin 18650 Hàn M?ch DP 18650-HM-02"; VariantName = "[No Variations]"
+Added Component: Designator=ESP1(ESP32 WROOM 32 KIT)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H1(XH2.54M-4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH001285"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Header 4P XH2.54-4P Ð?c Th?ng"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetBT1_1 Pin=BT1-1
+Added Pin To Net: NetName=NetBT1_1 Pin=BT1-1
+Added Pin To Net: NetName=NetBT1_1 Pin=ESP1-15
+Added Pin To Net: NetName=NetBT1_1 Pin=H1-1
+Added Net: Name=NetBT1_1
+Added Pin To Net: NetName=NetBT1_2 Pin=BT1-2
+Added Pin To Net: NetName=NetBT1_2 Pin=BT1-2
+Added Pin To Net: NetName=NetBT1_2 Pin=ESP1-14
+Added Pin To Net: NetName=NetBT1_2 Pin=H1-2
+Added Net: Name=NetBT1_2
+Added Pin To Net: NetName=NetESP1_29 Pin=ESP1-29
+Added Pin To Net: NetName=NetESP1_29 Pin=H1-4
+Added Net: Name=NetESP1_29
+Added Pin To Net: NetName=NetESP1_30 Pin=ESP1-30
+Added Pin To Net: NetName=NetESP1_30 Pin=H1-3
+Added Net: Name=NetESP1_30
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1
