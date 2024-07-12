@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "297985103247",
+    "firebase_url": "https://esp32-cam-servo-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "esp32-cam-servo",
+    "storage_bucket": "esp32-cam-servo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297985103247:android:ea8c354efbd066b65727fa",
+        "android_client_info": {
+          "package_name": "com.example.esp32"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT8MYzmL6CY2d7h9eFHsOdE9v5K9yCifU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
